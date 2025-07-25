@@ -4,7 +4,7 @@ Welcome to **Paradise Nursery**, a responsive and interactive plant shopping exp
 
 ##  Live Demo
 
- [View it on GitHub Pages]([https://your-username.github.io/your-repo-name](https://markshmidt.github.io/e-plantShopping/))
+https://your-username.github.io/your-repo-name](https://markshmidt.github.io/e-plantShopping/
 
 
 ---
